@@ -1,3 +1,1 @@
-[![Readme Stats](https://github-readme-stats.vercel.app/api?username=ikim23&theme=gotham&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikim23&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ikim23&count_private=true&show_icons=true" width="54%" alt="Github stats" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikim23&layout=compact" width="45%" alt="Language stats" />
